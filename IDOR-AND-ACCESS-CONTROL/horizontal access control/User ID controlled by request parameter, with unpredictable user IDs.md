@@ -17,7 +17,7 @@
 - Let's try accessing his account using my-account request...
 
 use this request:
-GET my-account?id=c2a57ec3-2ad1-43f4-b438-b33301829c85 
+GET my-account?id=c2a57ec3-2ad1-43f4-b438-b33301829c85 <- carlo's id
 
 
 BOOM: WE HAVE ACCESS TO CARLOS ACCOUNT...
